@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Home from "./components/home/home";
+import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Portfolio from "./components/Portfolio/Portfolio";
