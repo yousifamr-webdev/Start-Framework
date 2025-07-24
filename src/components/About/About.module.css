@@ -11,6 +11,11 @@
   font-weight: 700;
   color: white;
 }
+
+@media (max-width: 407px) {
+.main-content h2 {font-size: 30px;}
+}
+
 .main-content p {
   font-size: 16px;
   font-weight: 400;

@@ -9,6 +9,13 @@
   line-height: 48px;
   font-weight: 700;
 }
+
+@media (max-width: 407px) {
+  .navbar-brand {
+    font-size: 28px;
+  }
+}
+
 .nav-link {
   color: white !important;
   font-size: 16px;
@@ -50,4 +57,12 @@ footer {
 .btn:hover {
   color: white !important;
   background-color: #1abc9c !important;
+}
+
+.custom-toggler {
+  font-size: 24px;
+  color: white;
+}
+.navbar-toggler {
+  border-color: white;
 }
